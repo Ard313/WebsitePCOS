@@ -33,9 +33,9 @@ This project aims to provide a platform for proactive identification of Polycyst
 - **data/**: Dataset files used for model training and testing.
 
 **Getting Started:**
-1. Clone the repository: `git clone https://github.com/yourusername/pcos-diagnosis.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the Flask application: `python app.py`
+1. Clone the repository.
+2. Install dependencies.
+3. Run the Flask application.
 4. Access the website locally via the provided URL.
 
 
