@@ -15,15 +15,21 @@ This project aims to provide a platform for proactive identification of Polycyst
 5. **User-Friendly Interface**: The website offers an intuitive and easy-to-use interface for seamless navigation and interaction.
 
 **Methodology:**
+
+   <img width="622" alt="Screenshot 2024-03-30 213734" src="https://github.com/Ard313/WebsitePCOS/assets/122507060/72c6f225-df2b-4df1-a6fa-6a8d67f8c71b">
+
+
+
 - **Data Collection**: A questionnaire was designed to collect symptom-related data from women aged 15 and above. Additionally, a dataset from Kaggle was integrated for analysis.
 - **Data Analysis and Visualization**: Python and Excel were used for data analysis and visualization to identify patterns and correlations within the dataset.
 - **Data Preprocessing**: Null values were addressed, unnecessary attributes were removed, and data normalization was performed using a min-max scaler.
 - **Model Selection and Training**: Various classifier algorithms were trained and tested on a split of 75% training and 25% test data. Hyperparameter tuning was conducted to optimize model performance.
 - **Result Analysis**: The performance of nine classifiers was compared, with KNN achieving the highest accuracy of 91%. Performance metrics like accuracy score, recall, and training time were used for evaluation.
+- 
 
 **Deployment:**
 - The trained machine learning model was serialized into a pkl file.
-- Flask framework was used to deploy the model locally, enabling real-time PCOS prediction on the website.
+- Flask framework was used to deploy the model locally.
 
 **Repository Structure:**
 - **app.py**: Flask application script for website deployment.
