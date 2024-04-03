@@ -1,0 +1,13 @@
+VS code -run as administrator
+
+control+SHIT+P-> create environement
+
+
+ .\.venv\Scripts\Activate
+
+pip install -r requirements.txt
+
+python app.py
+
+
+
