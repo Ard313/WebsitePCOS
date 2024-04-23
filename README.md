@@ -24,6 +24,7 @@ This project aims to provide a platform for proactive identification of Polycyst
 
 - **Data Collection**: A questionnaire was designed to collect symptom-related data from women aged 15 and above. Additionally, a dataset from Kaggle was integrated for analysis.
 - **Data Analysis and Visualization**: Python and Excel were used for data analysis and visualization to identify patterns and correlations within the dataset.
+  
 - <img width="670" alt="Screenshot 2024-03-30 215432" src="https://github.com/Ard313/WebsitePCOS/assets/122507060/eca718b7-889c-424c-ba38-728612ecd094">
 - <img width="658" alt="Screenshot 2024-03-30 215733" src="https://github.com/Ard313/WebsitePCOS/assets/122507060/9e7bbe84-563a-4a33-b9b3-247226cdb034">
 - **Data Preprocessing**: Null values were addressed, unnecessary attributes were removed, and data normalization was performed using a min-max scaler.
